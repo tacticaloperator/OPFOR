@@ -51,7 +51,7 @@
 					<DIV class="sqd_logo">
 						<img alt="Logo">
 							<xsl:attribute name="src">
-								<xsl:value-of select="concat(substring-before(/squad/picture,'.paa'),'.jpg')"/>
+								<xsl:value-of select="concat(substring-before(/squad/picture,'.paa'),'.png')"/>
 							</xsl:attribute>
 						</img>
 					</DIV>
