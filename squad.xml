@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl" type="text/xsl"?>
+<squad nick="desu">
+	<name>:^)</name>
+	<email>ニガー</email>
+	<web>opfor did nothing wrong</web>
+	<picture>logo.paa</picture>
+	<title>88</title>
+
+        <member id="76561198084345975" nick="DELTA NINER">
+	<name>DELTA NINER</name>
+	<email>~</email>
+        <icq>~</icq>
+        <remark>:^))</remark>
+        </member>
+
+        <member id="76561198054705483" nick="TEMPEST OPERATOR">
+        <name>TEMPEST OPERATOR</name>
+        <email>tacticool@armaoperations.com</email>
+        <icq></icq>
+        <remark>arma aint free. altis has gotta be litturd with the bodies of NATO</remark>
+        </member>
+	
+	<member id="76561198060829083" nick="Sven">
+        <name>Sven</name>
+        <email></email>
+        <icq></icq>
+        <remark></remark>
+        </member>
+</squad>
