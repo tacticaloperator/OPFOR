@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <?xml-stylesheet href="squad.xsl" type="text/xsl"?>
-<squad nick="desu">
+<squad nick="OPFOR">
 	<name>:^)</name>
 	<email>ニガー</email>
 	<web>opfor did nothing wrong</web>
@@ -9,10 +9,10 @@
 	<title>88</title>
 
         <member id="76561198084345975" nick="DELTA NINER">
-	<name>DELTA NINER</name>
-	<email>~</email>
-        <icq>~</icq>
-        <remark>:^))</remark>
+		<name>DELTA NINER</name>
+		<email>!!!!!</email>
+        <icq>!!!!!</icq>
+        <remark>!!!!</remark>
         </member>
 
         <member id="76561198054705483" nick="TEMPEST OPERATOR">
